@@ -8,6 +8,6 @@ import androidx.room.RoomDatabase
 abstract class AppDB : RoomDatabase() {
 
     abstract fun urlDAO(): Url_DAO
+    //SECOND COMMENT
 }
 
-//added comment
